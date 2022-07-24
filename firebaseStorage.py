@@ -4,7 +4,7 @@ from firebase_admin import credentials, storage
 class StorageManager:
     def __init__(self):
         self.bucket_name = 'danceproject-43407.appspot.com'
-        self.fb_cred = '/Users/doryding/PycharmProjects/Project/creds/fbkey.json'
+        self.fb_cred = 'creds/fbkey.json'
         cred = credentials.Certificate(self.fb_cred)
         firebase_admin.initialize_app(cred, {
             'storageBucket': self.bucket_name
