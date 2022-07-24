@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "danceproject-43407",
+  "private_key_id": "69485ac237f462d1d2990f3d9330ebc61812fe01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD5axi6O6JfyKJ7\nTjWd9N1oImUPDroq8Al2FIr9VtR8SRrqjtZfmmuLCOqkVFqudovSNd3xCmlGSH6G\nx/d1QX36gOlutNrO/TCRCU4F5KRB7bsrosSEucgvNBV8UDG3AnG3JOrk8qeF81UG\ndRCEmGh4hqTNfsES8K9l+4nb1pcIN+IZaDubchbBFihKPA/SyPwFaRyHx0HiZGqz\ndASr9bZwEFgNjF0/AHsj/ps4RGVdToVDBO0nr0zHrvskRzaT2crA3mVwxDyIVhiR\nM1wV7BCUNNTVRs+7by8qFcbhB1ZGMLuGadDN7zhClXVkikaiPvs2rkD1S+9PuKOE\ngLHSrUYnAgMBAAECggEAIJL8npdFkcCN0TskedXY3rid6IqyBK6RxcKmvlx15tTT\nYkPiZTJb45jNWvCLYVKpLdHhg7v/hhwsriSf7HKaZeTVLSNgmlJAjV32Oy3NHVvT\ngJOYRS9QS4iVWnAiILZ91ynypZENZktNKkk6rYk2x7A/W3k3n7t1ui97peL6RFUU\nvjC9oAu7J/wRmhv0is9L4KYS3Ip7qdp9xbYOn1oL9gKIHN81kKcocnskMSC1KgkC\nAKuNoKCbpj70eQVZqA5ITSoPz3zknCDJYACR7AaO2Mc9crQ38OMHrQhzUcGK400M\nMyY2bJHV/CzrF9ZJnlNJqUpdtiNcTbwLgtz1v6L8TQKBgQD91EVXiLd8na1xLmNB\nsjzxTk2Kf9RiUNA7Hidete7PktHBrVw6BR9cyXWZAQu3cq5Ki8Mr0CddeK9LiGH4\nlxRfMKQ61sXNtiKSlPCH88wbjC9lgZJLQou9+UOLs83bcm+XJxKUpocMEugUQUmk\nXUF2eZpvZbdXqSSeexmBOxOQLQKBgQD7jSsw+gxGF15mHl4Xljh79D/CtIu+kEDT\nD+2kEcr2wSKCPA7JFACZqopTEV++Clg/AzNFKZVBlDN+GX2V60QYkPWHqxYGBxgg\nUISDFz0HKU7PmilvJguMgZFm34irtXka6kcckOtxjQhUv1+YsfF6+IbQvkMPms2q\n88OzjszQIwKBgAfdvzRiQUV0YX6jcGIF0wurYI3NPli5pmpemdu+iaMXKrb012nY\n5MrsV1+hf6p0vGAFCsxdzAqChfQySs74Z6I3kK9eHo0ses/OG9IqxQWJh6J+rHj2\nm/wMMIKw1M1bM4gcpt/CdWbzYwvVpiGY3kF8rUOMhG0MCd17dSPjH80VAoGBAM6O\nDqc6y5VKXxNPYEfR7DOsTibdBdrGrNQiwin1CkowMNvr4OAv8oY7yTWIkKuF5wxm\n3lSuXobo4Jds6viNpO7fKR3r2Du+24q9UvIpxMz6mGJT3i4MeXM4eWKVrq4AZ584\nPIgyX4JwIiUkt6S0iOtG47zIXlyT6smzPEFWwsstAoGAI2fMPYcmQdCtd64jIJhD\nxpzknATiJ39+0THlaPY3riYlB7zNj4fNCH2t16PcBjaXoZV7WRKkCsKANdSUHVea\nksukrAlhxX3nOE7NXqTjlOVzPFHCCYFQuIiJC56lpj6D0Nati0SsuEVRBpmpCZYO\n/PxQCSBwyROEoGWFTSzUqN8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-y8oq4@danceproject-43407.iam.gserviceaccount.com",
+  "client_id": "112457320680642560047",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-y8oq4%40danceproject-43407.iam.gserviceaccount.com"
+}
